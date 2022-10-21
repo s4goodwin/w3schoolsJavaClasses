@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef0c5575-7fdf-4ac9-a286-4074372cf0b7" name="Changes" comment="">
+    <list default="true" id="ef0c5575-7fdf-4ac9-a286-4074372cf0b7" name="Changes" comment="classAttributes class completed">
+      <change afterPath="$PROJECT_DIR$/src/classMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classAttributes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classAttributes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,13 +30,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.classMethods">
     <configuration name="classAttributes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classAttributes" />
       <module name="w3schoolsJavaClasses" />
@@ -43,8 +44,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="classMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classMethods" />
+      <module name="w3schoolsJavaClasses" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.classMethods" />
         <item itemvalue="Application.classAttributes" />
       </list>
     </recent_temporary>
@@ -58,6 +67,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666316864917</updated>
     </task>
+    <task id="LOCAL-00001" summary="classAttributes class completed">
+      <created>1666317935764</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666317935764</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="classAttributes class completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="classAttributes class completed" />
   </component>
 </project>
